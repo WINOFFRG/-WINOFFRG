@@ -6,7 +6,7 @@
   </a>
 </h6>
 
-<h6>🤘 I'm an Engineering Student in IT Field. 💻 Always available to <strong>collaborate</strong>. 🤝 <i>π</i> Learning curve and always <b>exploring</b> stacks to leverage and build cool stuff.🛠️ Branched fields of interest 🌴 and <b>Open Source</b> Contributor. </h6>
+<h4>🤘 I'm an Engineering Student in IT Field. 💻 Always available to <strong>collaborate</strong>. 🤝 <i>π</i> Learning curve and always <b>exploring</b> stacks to leverage and build cool stuff.🛠️ Branched fields of interest 🌴 and <b>Open Source</b> Contributor. </h4>
 
 ### 🧐 More About Me:
 - 🔭 &nbsp; I am currently working on **JS Projects** 
@@ -79,7 +79,6 @@
 - [Build a Docker Image and publish it to AWS ECR using Github Actions](https://winoffrg.medium.com/build-a-docker-image-and-publish-it-to-aws-ecr-using-github-actions-f20accd774c3)
 <!-- BLOG-POST-LIST:END -->
 
------
 
 ### 🏆 Github Stats
 
