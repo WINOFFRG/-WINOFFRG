@@ -17,6 +17,8 @@
 - 💬 &nbsp; Ask me anything related to my field via Github or Telegram.
 - 🌐 &nbsp; Music, Medium and Open Source Communities are constant Supporters 😌
 
+#
+
 <p align="center"> 
 <!-- Medium Badge -->
 <a href="https://medium.com/@winoffrg" target="_blank"><img src="https://img.shields.io/badge/-@WINOFFRG-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=Medium&amp;link=https://winoffrg.medium.com/" alt="Medium Badge"></a>
@@ -30,6 +32,7 @@
 <a href="https://t.me/WINOFFRG" target="_blank"><img src="https://img.shields.io/badge/-@WINOFFRG-blue?style=flat-square&amp;labelColor=blue&amp;logo=Telegram&amp;link=https://t.me/WINOFFRG" alt="Spotify Badge"></a>
 </p>
 
+##
 ### 👉 Languages & Frameworks
 <p>
 <img src="./assets/c++.svg" alt="C++" width="48" height="48"/>
@@ -75,12 +78,13 @@
 <img src="./assets/dribbble.svg" alt="Dribbble" width="48" height="48"/>
 </p>
 
-## 📝 Latest Blog Posts
+##
+<h4> 📝 Latest Blog Posts <h4>
 <!-- BLOG-POST-LIST:START -->
 - [Build a Docker Image and publish it to AWS ECR using Github Actions](https://winoffrg.medium.com/build-a-docker-image-and-publish-it-to-aws-ecr-using-github-actions-f20accd774c3)
 <!-- BLOG-POST-LIST:END -->
 
-
+##
 ### 🏆 Github Stats
 
 <img  src="https://github-readme-stats.vercel.app/api?username=WINOFFRG&show_assets=true&hide_border=true&theme=dark" width="48%" align="right" >
