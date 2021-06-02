@@ -20,7 +20,8 @@ I'm currently an Engineering Student in IT Field. </p>
 
 🧰 Toolbox  
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="48" height="48"/>
+<p>
+<img src="./assets/javascript.svg" alt="JavaScript Logo" width="48" height="48"/>
 <img src="./assets/amazon-web-services.svg" alt="JavaScript Logo" width="48" height="48"/>
 <img src="./assets/c++.svg" alt="JavaScript Logo" width="48" height="48"/>
 <img src="./assets/css3.svg" alt="JavaScript Logo" width="48" height="48"/>
@@ -31,7 +32,7 @@ I'm currently an Engineering Student in IT Field. </p>
 <img src="./assets/kubernetes.svg" alt="JavaScript Logo" width="48" height="48"/>
 <img src="./assets/docker.svg" alt="JavaScript Logo" width="48" height="48"/>
 <img src="./assets/react.svg" alt="JavaScript Logo" width="48" height="48"/><img src="./assets/postman.png" alt="JavaScript Logo" width="48" height="48"/><img src="./assets/google-cloud.svg" alt="JavaScript Logo" width="48" height="48"/><img src="./assets/google-cloud-platform.svg" alt="JavaScript Logo" width="48" height="48"/><img src="./assets/mongodb.svg" alt="JavaScript Logo" width="48" height="48"/>
-
+</p>
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
