@@ -17,8 +17,6 @@
 - 💬 &nbsp; Ask me anything related to my field via Github or Telegram.
 - 🌐 &nbsp; Music, Medium and Open Source Communities are constant Supporters 😌
 
-#
-
 <p align="center"> 
 <!-- Medium Badge -->
 <a href="https://medium.com/@winoffrg" target="_blank"><img src="https://img.shields.io/badge/-@WINOFFRG-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=Medium&amp;link=https://winoffrg.medium.com/" alt="Medium Badge"></a>
@@ -78,8 +76,7 @@
 <img src="./assets/dribbble.svg" alt="Dribbble" width="48" height="48"/>
 </p>
 
-##
-<h4> 📝 Latest Blog Posts <h4>
+## 📝 Latest Blog Posts 
 <!-- BLOG-POST-LIST:START -->
 - [Build a Docker Image and publish it to AWS ECR using Github Actions](https://winoffrg.medium.com/build-a-docker-image-and-publish-it-to-aws-ecr-using-github-actions-f20accd774c3)
 <!-- BLOG-POST-LIST:END -->
