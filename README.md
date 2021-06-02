@@ -15,14 +15,15 @@ I'm currently an Engineering Student in IT Field. </p>
 <a href="https://medium.com/@serbis"><img src="https://img.shields.io/badge/-@WINOFFRG-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=Medium&amp;link=https://winoffrg.medium.com/" alt="Medium Badge"></a>
 <!-- Linkedin Badge -->
 <a href="https://www.linkedin.com/in/serbis/"><img src="https://img.shields.io/badge/-@WINOFFRG-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/WINOFFRG/" alt="LinkedIn Badge"></a>
-</a> <a href="https://open.spotify.com/user/1235099575"><img src="https://img.shields.io/badge/-@Rohan%20Gupta-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a>
-<a href="https://open.spotify.com/user/1235099575"><img src="https://img.shields.io/badge/-@Rohan%20Gupta-critical?style=flat-square&amp;labelColor=fff&amp;logo=Gmail&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a>
+</a> <a href="https://open.spotify.com/user/1235099575"><img src="https://img.shields.io/badge/-%20Rohan%20Gupta-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a>
+<a href="https://open.spotify.com/user/1235099575"><img src="https://img.shields.io/badge/-%20Rohan%20Gupta-critical?style=flat-square&amp;labelColor=fff&amp;logo=Gmail&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a>
 <a href="https://t.me/WINOFFRG"><img src="https://img.shields.io/badge/-@WINOFFRG-blue?style=flat-square&amp;labelColor=blue&amp;logo=Telegram&amp;link=https://t.me/WINOFFRG" alt="Spotify Badge"></a>
 </p>
 
 
-🧰 Toolbox  
 
+
+##  
 
 🧿 Languages & Frameworks
 <p>
@@ -37,21 +38,26 @@ I'm currently an Engineering Student in IT Field. </p>
 
 🧿 Cloud Native & Platforms
 <p>
-<img src="./assets/amazon-web-services.svg" alt="Amazon Web Services" width="48" height="48"/>
+<img src="./assets/amazon-web-services.svg" alt="Amazon Web Services" width="49" height="49"/>
 <img src="./assets/google-cloud.svg" alt="Google Cloud" width="48" height="48"/>
 <img src="./assets/google-cloud-platform.svg" alt="Google Cloud Platform" width="48" height="48"/>
 <img src="./assets/kubernetes.svg" alt="JavaScript Logo" width="48" height="48"/>
 <img src="./assets/docker.svg" alt="JavaScript Logo" width="48" height="48"/>
+<img src="./assets/heroku-plain.svg" alt="JavaScript Logo" width="47" height="47"/>
+<img src="./assets/jenkins-icon.svg" alt="JavaScript Logo" width="48" height="48"/>
+
 </p>
 
 <p>
 <img src="./assets/git.svg" alt="JavaScript Logo" width="48" height="48"/>
 <img src="./assets/nginx.svg" alt="JavaScript Logo" width="48" height="48"/>
-
-
-
 <img src="./assets/postman.png" alt="JavaScript Logo" width="48" height="48"/>
 <img src="./assets/mongodb.svg" alt="JavaScript Logo" width="48" height="48"/>
+<img src="./assets/wordpress.svg" alt="JavaScript Logo" width="48" height="48"/>
+<img src="./assets/linux-original.svg" alt="JavaScript Logo" width="46" height="46"/>
+<img src="./assets/npm.svg" alt="JavaScript Logo" width="46" height="46"/>
+<img src="./assets/cloudflare.svg" alt="JavaScript Logo" width="46" height="46"/>
+
 </p>
 
 ## 📝 Latest Blog Posts
