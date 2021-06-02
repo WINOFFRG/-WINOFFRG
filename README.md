@@ -9,7 +9,6 @@
 <a href="https://medium.com/@serbis"><img src="https://img.shields.io/badge/-@WINOFFRG-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=Medium&amp;link=https://winoffrg.medium.com/" alt="Medium Badge"></a>
 <!-- Linkedin Badge -->
 <a href="https://www.linkedin.com/in/serbis/"><img src="https://img.shields.io/badge/-@WINOFFRG-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/WINOFFRG/" alt="LinkedIn Badge"></a>
-<!-- Spotify Badge -->
 </a> <a href="https://open.spotify.com/user/1235099575"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a></p>
 
 ## &#x1f4c8; My GitHub Stats  
