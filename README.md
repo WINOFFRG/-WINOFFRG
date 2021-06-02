@@ -31,9 +31,14 @@ I'm currently an Engineering Student in IT Field. </p>
 <img src="./assets/nodejs.svg" alt="JavaScript Logo" width="48" height="48"/>
 <img src="./assets/kubernetes.svg" alt="JavaScript Logo" width="48" height="48"/>
 <img src="./assets/docker.svg" alt="JavaScript Logo" width="48" height="48"/>
-<img src="./assets/react.svg" alt="JavaScript Logo" width="48" height="48"/><img src="./assets/postman.png" alt="JavaScript Logo" width="48" height="48"/><img src="./assets/google-cloud.svg" alt="JavaScript Logo" width="48" height="48"/><img src="./assets/google-cloud-platform.svg" alt="JavaScript Logo" width="48" height="48"/><img src="./assets/mongodb.svg" alt="JavaScript Logo" width="48" height="48"/>
+<img src="./assets/react.svg" alt="JavaScript Logo" width="48" height="48"/>
+<img src="./assets/postman.png" alt="JavaScript Logo" width="48" height="48"/>
+<img src="./assets/google-cloud.svg" alt="JavaScript Logo" width="48" height="48"/>
+<img src="./assets/google-cloud-platform.svg" alt="JavaScript Logo" width="48" height="48"/>
+<img src="./assets/mongodb.svg" alt="JavaScript Logo" width="48" height="48"/>
 </p>
-### 📝 Latest Blog Posts
+
+## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Build a Docker Image and publish it to AWS ECR using Github Actions](https://winoffrg.medium.com/build-a-docker-image-and-publish-it-to-aws-ecr-using-github-actions-f20accd774c3)
