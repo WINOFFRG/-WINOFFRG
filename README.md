@@ -6,7 +6,7 @@
   </a>
 </h6>
 
-<h3> 🤘 I'm an Engineering Student in IT Field. 💻 Always available to <strong>collaborate</strong>. 🤝 <i>π</i> Learning curve and always <b>exploring</b> stacks to leverage and build cool stuff.🛠️ Branched fields of interest 🌴 and <b>Open Source</b> Contributor. </h3>
+<h3 align="Justify"> 🤘 I'm an Engineering Student in IT Field. 💻 Always available to <strong>collaborate</strong>. 🤝 <i>π</i> Learning curve and always <b>exploring</b> stacks to leverage and build cool stuff.🛠️ Branched fields of interest 🌴 and <b>Open Source</b> Contributor. </h3>
 
 ### 🧐 More About Me:
 - 🔭 &nbsp; I am currently working on **JS Projects** 
