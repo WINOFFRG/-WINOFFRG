@@ -2,17 +2,17 @@
 
 <h6 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=040927&center=true&vCenter=true&height=35&lines=Hi+There+%F0%9F%91%8B;I+am+Rohan+Gupta+;Nice+to+see+you+here+!++%F0%9F%99%82">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=040927&size=30&center=true&vCenter=true&height=35&lines=Hi+There+%F0%9F%91%8B;I+am+Rohan+Gupta+;Nice+to+see+you+here+!++%F0%9F%99%82">
   </a>
 </h6>
 
-I'm currently an Engineering Student in IT Field. </p>
+I'm an Engineering Student in IT Field. 💻 Always available to <strong>collaborate</strong>. 🤝 <i>π</i> Learning curve and always <strong>exploring secrets</strong> that hasn't been yet. Branched fields of interest 🌴
 
 
 
-<p> 
+<p align="center"> 
 <!-- Medium Badge -->
-<a href="https://medium.com/@serbis"><img src="https://img.shields.io/badge/-@WINOFFRG-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=Medium&amp;link=https://winoffrg.medium.com/" alt="Medium Badge"></a>
+<a href="https://medium.com/@winoffrg"><img src="https://img.shields.io/badge/-@WINOFFRG-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=Medium&amp;link=https://winoffrg.medium.com/" alt="Medium Badge"></a>
 <!-- Linkedin Badge -->
 <a href="https://www.linkedin.com/in/serbis/"><img src="https://img.shields.io/badge/-@WINOFFRG-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/WINOFFRG/" alt="LinkedIn Badge"></a>
 </a> <a href="https://open.spotify.com/user/1235099575"><img src="https://img.shields.io/badge/-%20Rohan%20Gupta-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a>
@@ -56,8 +56,8 @@ I'm currently an Engineering Student in IT Field. </p>
 <img src="./assets/wordpress.svg" alt="JavaScript Logo" width="48" height="48"/>
 <img src="./assets/linux-original.svg" alt="JavaScript Logo" width="46" height="46"/>
 <img src="./assets/npm.svg" alt="JavaScript Logo" width="46" height="46"/>
-<img src="./assets/cloudflare.svg" alt="JavaScript Logo" width="46" height="46"/>
-
+<img src="./assets/cloudflare-original.svg" alt="JavaScript Logo" width="46" height="46"/>
+<img src="./assets/auth0.svg" alt="JavaScript Logo" width="44" height="44"/>
 </p>
 
 ## 📝 Latest Blog Posts
