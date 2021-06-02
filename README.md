@@ -1,10 +1,10 @@
 <img src="./assets/media/header_.png">
 
-<h1 align="center">
+<h6 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=040927&center=true&vCenter=true&height=35&lines=Hi+There+%F0%9F%91%8B;I+am+Rohan+Gupta+;Nice+to+see+you+here+!++%F0%9F%99%82">
   </a>
-</h1>
+</h6>
 
 I'm currently an Engineering Student in IT Field. </p>
 
