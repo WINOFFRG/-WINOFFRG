@@ -6,13 +6,13 @@
   </a>
 </h6>
 
-<h3 align="Justify"> 🤘 I'm an Engineering Student in IT Field. 💻 Always available to <strong>collaborate</strong>. 🤝 <i>π</i> Learning curve and always <b>exploring</b> stacks to leverage and build cool stuff.🛠️ Branched fields of interest 🌴 and <b>Open Source</b> Contributor. </h3>
+<h3 align="Justify"> 🤘 I'm an Engineering Student in IT Field. 💻 Always available to <strong>collaborate</strong>. 🤝 <i>π</i> Learning curve and always <b>exploring</b> new things to leverage on them and build cool stuff.🛠️ Branched fields of interest 🌴 and <b>Open Source</b> Contributor.</h3>
 
 ### 🧐 More About Me:
 - 🔭 &nbsp; I am currently working on **JS Projects**.
 - 🌱 &nbsp; Following **MERN Stack** and **Web Security**.
-- 🎨 &nbsp; Shadowed skills on **Reverse Engineering**, **Streaming Servcies** and **Web Security**.
-- 🔎 &nbsp; Research ongoing on study the working of **Streaming Services** and **OTT Platform**.
+- 🎨 &nbsp; Shadowed skills on **Reverse Engineering** & **Web Security**.
+- 🔎 &nbsp; Research ongoing on studying the working of **Live Streaming** and **OTT Platforms**.
 - ✊ &nbsp; Practising & Learning large scale Development Operations.
 - 💬 &nbsp; Ask me anything related to my field via Github or Telegram.
 - 🌐 &nbsp; Music, Medium and Open Source Communities are constant Supporters 😌
@@ -25,7 +25,7 @@
 <!-- Spotify Badge -->
 <a href="https://open.spotify.com/user/xxbk9j9s82g56illzhxlojn9u" target="_blank"><img src="https://img.shields.io/badge/-%20Rohan%20Gupta-1ED960?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1235099575" alt="Spotify Badge"></a>
 <!-- GMAIL Badge -->
-<a href="mailto:rohangupta1528@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-%20Rohan%20Gupta-critical?style=flat-square&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:rohangupta1528@gmail.com" alt="GMail Badge"></a>
+<a href="rohangupta1528@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-%20Rohan%20Gupta-critical?style=flat-square&amp;labelColor=fff&amp;logo=Gmail&amp;link=rohangupta1528@gmail.com" alt="GMail Badge"></a>
 <!-- Telegram Badge -->
 <a href="https://t.me/WINOFFRG" target="_blank"><img src="https://img.shields.io/badge/-@WINOFFRG-blue?style=flat-square&amp;labelColor=blue&amp;logo=Telegram&amp;link=https://t.me/WINOFFRG" alt="Spotify Badge"></a>
 </p>
