@@ -9,11 +9,12 @@
 <h3 align="Justify"> 🤘 I'm an Engineering Student in IT Field. 💻 Always available to <strong>collaborate</strong>. 🤝 <i>π</i> Learning curve and always <b>exploring</b> stacks to leverage and build cool stuff.🛠️ Branched fields of interest 🌴 and <b>Open Source</b> Contributor. </h3>
 
 ### 🧐 More About Me:
-- 🔭 &nbsp; I am currently working on **JS Projects** 
-- 🌱 &nbsp; Following **MERN Stack** and **Web Security** 
-- 👨🏻‍💻 &nbsp; Working on 
-- 🎨 &nbsp; Shadowed skills on **Reverse Engineering**, **Streaming Servcies** and **Web Security**. 
-- 💬 &nbsp; Ask me anything related to my field via Github or Telegram
+- 🔭 &nbsp; I am currently working on **JS Projects**.
+- 🌱 &nbsp; Following **MERN Stack** and **Web Security**.
+- 🎨 &nbsp; Shadowed skills on **Reverse Engineering**, **Streaming Servcies** and **Web Security**.
+- 🔎 &nbsp; Research ongoing on study the working of **Streaming Services** and **OTT Platform**.
+- ✊ &nbsp; Practising & Learning large scale Development Operations.
+- 💬 &nbsp; Ask me anything related to my field via Github or Telegram.
 - 🌐 &nbsp; Music, Medium and Open Source Communities are constant Supporters 😌
 
 <p align="center"> 
