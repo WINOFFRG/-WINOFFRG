@@ -39,7 +39,7 @@
 <img src="./assets/html-5.svg" alt="HTML" width="48" height="48"/>
 <img src="./assets/react.svg" alt="ReactJS" width="49" height="49"/>
 <img src="./assets/nodejs.svg" alt="Node JS" width="48" height="48"/>
-<img src="./assets/python-original.svg" alt="ReactJS" width="46" height="46"/>
+<!-- <img src="./assets/python-original.svg" alt="ReactJS" width="46" height="46"/> -->
 </p>
 
 ### 🙌 Cloud Native & Platforms
